@@ -1,5 +1,3 @@
-package Activity;
-
 import java.util.HashSet;
 
 public class Activity10 {
